@@ -1,0 +1,1 @@
+Note: Use `npm i --legacy-peer-deps` to bypass peer dependency warnings.
